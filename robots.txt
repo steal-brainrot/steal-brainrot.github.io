@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://steal-brainrot.github.io/sitemap.xml
